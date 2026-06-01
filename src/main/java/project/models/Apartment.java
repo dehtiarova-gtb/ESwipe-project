@@ -16,12 +16,11 @@ public class Apartment {
     private String title;
     private String city;
     private String area;
-    private BigDecimal price_per_day;
+    private BigDecimal price_per_month;
     private String image_url;
     private boolean status;
 
 
-    //FK user_idк
 
 
 }
